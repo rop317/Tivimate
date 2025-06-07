@@ -1,84 +1,10 @@
 #EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
 #EXTINF:1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Sevimli cinema FHD
 https://vod.splay.uz/live_splay/cinema/playlist.m3u8
-#EXTINF:1 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/1.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11055",Первый HD
-http://178.163.5.162:4022/udp/234.0.0.172:2000
-#EXTINF:1 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/Pervyj_kanal.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11055",Первый канал
-http://178.163.5.162:4022/udp/234.0.0.200:2000
-#EXTINF:2 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",BiZ Cinema
-http://82.215.111.227/1213/index.m3u8
-#EXTINF:2 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/russia_hd.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10971",Россия HD
-http://178.163.5.162:4022/udp/234.0.0.112:2000
-#EXTINF:3 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",BiZ TV
-http://82.215.111.227/1211/index.m3u8
-#EXTINF:3 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/RenTV.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9188",РЕН ТВ
-http://178.163.5.162:4022/udp/234.0.0.240:2000
-#EXTINF:4 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/TNT.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11208",ТНТ
-http://178.163.5.162:4022/udp/234.0.0.186:2000
-#EXTINF:4 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Kinoteatr
-http://82.215.111.227/1009/index.m3u8
-#EXTINF:4 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/NTV.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11127",НТВ
-http://178.163.5.162:4022/udp/234.0.0.206:2000
-#EXTINF:5 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/Zvezda.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11098",Звезда
-http://178.163.5.162:4022/udp/234.0.0.237:2000
-#EXTINF:5 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Milliy
-http://82.215.111.227/1014/index.m3u8
-#EXTINF:6 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/STS.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11207",СТС
-http://178.163.5.162:4022/udp/234.0.0.239:2000
-#EXTINF:6 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",My5
-http://82.215.111.227/1012/index.m3u8
-#EXTINF:7 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/tnt4.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7979",ТНТ4
-http://178.163.5.162:4022/udp/234.0.0.181:2000
-#EXTINF:7 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Sevimli
-http://82.215.111.227/1017/index.m3u8
-#EXTINF:8 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/TV3.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10972",ТВ3
-http://178.163.5.162:4022/udp/234.0.0.171:2000
-#EXTINF:8 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Zo'r TV
-http://82.215.111.227/1016/index.m3u8
-#EXTINF:9 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/ntv-hit.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11107",НТВ-Хит
-http://178.163.5.162:4022/udp/234.0.0.236:2000
 #EXTINF:9 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",tasix.media
 https://tt.tas-ix.media:444/telegram/tracks-v1a1/mono.m3u8
-#EXTINF:10 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/belros.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10131",БелРос
-http://178.163.5.162:4022/udp/234.0.0.251:2000
 #EXTINF:10 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Makon TV
 https://st1.uzdigital.tv/Makon_TV/tracks-v1a1/mono.ts.m3u8
-#EXTINF:11 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/che.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11132",Че
-http://178.163.5.162:4022/udp/234.0.0.218:2000
-#EXTINF:11 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",LuxTV
-http://82.215.111.227/1210/index.m3u8
-#EXTINF:12 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/Mir.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11133",Мир
-http://178.163.5.162:4022/udp/234.0.0.5:2000
-#EXTINF:13 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/Pjatica.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11131",Пятница!
-http://178.163.5.162:4022/udp/234.0.0.235:2000
-#EXTINF:14 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/5_kanal_Ro__ija.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10968",Пятый Канал
-http://178.163.5.162:4022/udp/234.0.0.205:2000
-#EXTINF:15 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/Rossija_24.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11014",Россия 24
-http://178.163.5.162:4022/udp/234.0.0.207:2000
-#EXTINF:16 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/TVC.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11020",ТВЦ
-http://178.163.5.162:4022/udp/234.0.0.192:2000
-#EXTINF:17 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/moskva24.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11280",Москва 24
-http://178.163.5.162:4022/udp/234.0.0.194:2000
-#EXTINF:18 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/togliatty24.png" tvg-id="simpleTVFakeEpgId",Тольятти 24 HD
-http://178.163.5.162:4022/udp/234.0.0.234:2000
-#EXTINF:19 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/Doma_hnij.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10438",Домашний
-http://178.163.5.162:4022/udp/234.0.0.191:2000
-#EXTINF:20 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/gubernia.png" tvg-id="simpleTVFakeEpgId",Губерния
-http://178.163.5.162:4022/udp/234.0.0.7:2000
-#EXTINF:21 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/muz_tv.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11061",Ю
-http://178.163.5.162:4022/udp/234.0.0.229:2000
-#EXTINF:22 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/Sover_henno__ekretno.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7950",Совершенно секретно
-http://178.163.5.162:4022/udp/234.0.0.185:2000
-#EXTINF:23 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/Vremja.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7793",Время
-http://178.163.5.162:4022/udp/234.0.0.225:2000
-#EXTINF:24 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/bel24.png" tvg-id="simpleTVFakeEpgId",Беларусь-24
-http://178.163.5.162:4022/udp/234.0.0.199:2000
-#EXTINF:25 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/24_Texno.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9326",24 Техно
-http://178.163.5.162:4022/udp/234.0.0.247:2000
-#EXTINF:26 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/2x2.png" tvg-id="simpleTVFakeEpgId",Канал 2x2
-http://178.163.5.162:4022/udp/234.0.0.244:2000
-#EXTINF:27 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/subbota.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7960",Суббота
-http://178.163.5.162:4022/udp/234.0.0.100:2000
 #EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/983.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11055",Первый канал FHD
 http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2402/index.m3u8
 #EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/1000.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9187",ОТР HD
@@ -1079,124 +1005,18 @@ http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/31151/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/31173/index.m3u8
 #EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3894.png" tvg-id="simpleTVFakeEpgId",NBA TV USA HD TR
 http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/31209/index.m3u8
-#EXTINF:-1 group-title="Пакет РТРС-1" tvg-id="simpleTVFakeEpgId",ТНТ International (Европа)
-http://85.187.13.40:18000/tntint
-#EXTINF:-1 group-title="Пакет РТРС-1" tvg-logo="https://veranzo.ru/other/icons/ТНТ4.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7979",ТНТ4
-http://130.193.73.10:8937/play/a020
-#EXTINF:-1 group-title="Пакет РТРС-1" tvg-logo="http://89.tv-internet.pro/wp-content/uploads/2019/12/160-A2B0B9BD8B-93B0BBB0BA82B8BAB8-HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7962",Galaxy
-http://178.163.5.162:4022/udp/234.0.0.111:2000
-#EXTINF:-1 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/Zoopark.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7775",Зоопарк
-http://178.163.5.162:4022/udp/234.0.0.216:2000
-#EXTINF:-1 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/Moja_planeta.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7880",Моя планета
-http://178.163.5.162:4022/udp/234.0.0.228:2000
-#EXTINF:-1 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/Nauka2.0_2.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7890",Наука 2.0
-http://178.163.5.162:4022/udp/234.0.0.226:2000
-#EXTINF:-1 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/Otkrytyj_mir.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9071",Cartoon classica
-http://178.163.5.162:4022/udp/234.0.0.238:2000
-#EXTINF:-1 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/auto_24.gif" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11051",Авто 24
-http://178.163.5.162:4022/udp/234.0.0.227:2000
-#EXTINF:-1 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/big_azia.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10924",Большая Азия
-http://178.163.5.162:4022/udp/234.0.0.10:2000
-#EXTINF:-1 group-title="Пакет РТРС-1" tvg-logo="https://i.ibb.co/0XHRs4h/04ae9f3537063ac965be96d757ed53ac.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7796",Дикая охота HD
-http://178.163.5.162:4022/udp/234.0.0.11:2000
-#EXTINF:-1 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/Oxota_i_rybalka.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7912",Охота и Рыбалка
-http://178.163.5.162:4022/udp/234.0.0.230:2000
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Muloqot TV
-http://82.215.111.227/1285/index.m3u8
-#EXTINF:-1 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/Sarafan_TV.png" tvg-id="simpleTVFakeEpgId",Сарафан ТВ
-http://178.163.5.162:4022/udp/234.0.0.246:2000
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",BiZ Music
-http://82.215.111.227/1212/index.m3u8
-#EXTINF:-1 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/Telekafe.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7970",Телекафе
-http://178.163.5.162:4022/udp/234.0.0.249:2000
 #EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Biznes TV
 https://fl.biztv.media/BiznesTV_1080/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/Tatar_tan.png" tvg-id="simpleTVFakeEpgId",ТНВ Планета
-http://178.163.5.162:4022/udp/234.0.0.2:2000
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",D-TV
-http://82.215.111.227/1206/index.m3u8
-#EXTINF:-1 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/uspeh.gif" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9096",Hollywood
-http://178.163.5.162:4022/udp/234.0.0.117:2000
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Dunyo Bo'ylab
-http://82.215.111.227/1006/index.m3u8
-#EXTINF:-1 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/MuzTV.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10414",Муз ТВ
-http://178.163.5.162:4022/udp/234.0.0.96:2000
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",fTV
-http://82.215.111.227/1018/index.m3u8
-#EXTINF:-1 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/v_mire_givotnih.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8743",В мире животных HD
-http://178.163.5.162:4022/udp/234.0.0.97:2000
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Futbol TV
-http://82.215.111.227/1010/index.m3u8
-#EXTINF:-1 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/Zagorodnaja_zhizn7.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7816",Загородная жизнь HD
-http://178.163.5.162:4022/udp/234.0.0.115:2000
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",I-Kbol TV
-http://82.215.111.227/1282/index.m3u8
-#EXTINF:-1 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/ohotnik_i_ribolov.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7914",Охотник и рыболов HD
-error
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Istiqlol TV
-http://82.215.111.227/1283/index.m3u8
-#EXTINF:-1 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/prikluchenia_hd.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8126",Приключения HD
-http://178.163.5.162:4022/udp/234.0.0.193:2000
 #EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Sevimli kids FHD
 https://vod.splay.uz/live_splay/kids/playlist.m3u8
-#EXTINF:-1 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/360gradusov.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9933",360
-http://178.163.5.162:4022/udp/234.0.0.8:2000
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Bolajon
-http://82.215.111.227/1007/index.m3u8
-#EXTINF:-1 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/iz.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8957",Известия HD
-http://178.163.5.162:4022/udp/234.0.0.116:2000
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Aqlvoy
-http://82.215.111.227/1205/index.m3u8
-#EXTINF:-1 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/RBK_TV.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7932",РБК HD
-http://178.163.5.162:4022/udp/234.0.0.151:2000
 #EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",MiMi
 https://fl.biztv.media/MiMiTV_1080/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/Karusel7.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8444",Карусель
-http://178.163.5.162:4022/udp/234.0.0.203:2000
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Madaniyat va Ma'rifat
-http://82.215.111.227/1005/index.m3u8
-#EXTINF:-1 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/otr.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9187",ОТР
-http://178.163.5.162:4022/udp/234.0.0.208:2000
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Mahalla
-http://82.215.111.227/1013/index.m3u8
-#EXTINF:-1 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/Rossija_Kul7tura.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9173",Россия Культура
-http://178.163.5.162:4022/udp/234.0.0.202:2000
 #EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",My5 International
 https://st.my5.media/hls/fullhd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",MYDAYTV
-http://82.215.111.227/1265/index.m3u8
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Navo
-http://82.215.111.227/1008/index.m3u8
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",NTV (O'zbekiston)
-http://82.215.111.227/1284/index.m3u8
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Nurafshon TV
-http://82.215.111.227/1220/index.m3u8
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",O'zbekiston
-http://82.215.111.227/1001/index.m3u8
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",O'zbekiston 24
-http://82.215.111.227/1011/index.m3u8
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",O'zbekiston Tarixi
-http://82.215.111.227/1209/index.m3u8
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",RTV
-http://82.215.111.227/1221/index.m3u8
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",SMusic
-http://82.215.111.227/1245/index.m3u8
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Sport
-http://82.215.111.227/1004/index.m3u8
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Taraqqiyot TV
-http://82.215.111.227/1204/index.m3u8
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Toshkent
-http://82.215.111.227/1003/index.m3u8
 #EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Travel TV (O'zbekiston)
 https://fl.biztv.media/TabiatTV_1080/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",TTV Musiqa
 https://st1.uzdigital.tv/TTV_Musiqa/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Uzreport
-http://82.215.111.227/1015/index.m3u8
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Yoshlar
-http://82.215.111.227/1002/index.m3u8
-#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Муз-ТВ (O'zbekiston)
-http://82.215.111.227/1063/index.m3u8
 #EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Солнечный тв
 https://fl.biztv.media/stv_1080_bizstvvietfujeyrah/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Sci-Fi.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8720",.sci-fi
