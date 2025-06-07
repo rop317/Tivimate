@@ -1,0 +1,1371 @@
+#EXTM3U $BorpasFileFormat="1" $NestedGroupsSeparator="/"
+#EXTINF:1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Sevimli cinema FHD
+https://vod.splay.uz/live_splay/cinema/playlist.m3u8
+#EXTINF:1 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/1.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11055",Первый HD
+http://178.163.5.162:4022/udp/234.0.0.172:2000
+#EXTINF:1 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/Pervyj_kanal.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11055",Первый канал
+http://178.163.5.162:4022/udp/234.0.0.200:2000
+#EXTINF:2 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",BiZ Cinema
+http://82.215.111.227/1213/index.m3u8
+#EXTINF:2 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/russia_hd.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10971",Россия HD
+http://178.163.5.162:4022/udp/234.0.0.112:2000
+#EXTINF:3 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",BiZ TV
+http://82.215.111.227/1211/index.m3u8
+#EXTINF:3 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/RenTV.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9188",РЕН ТВ
+http://178.163.5.162:4022/udp/234.0.0.240:2000
+#EXTINF:4 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/TNT.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11208",ТНТ
+http://178.163.5.162:4022/udp/234.0.0.186:2000
+#EXTINF:4 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Kinoteatr
+http://82.215.111.227/1009/index.m3u8
+#EXTINF:4 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/NTV.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11127",НТВ
+http://178.163.5.162:4022/udp/234.0.0.206:2000
+#EXTINF:5 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/Zvezda.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11098",Звезда
+http://178.163.5.162:4022/udp/234.0.0.237:2000
+#EXTINF:5 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Milliy
+http://82.215.111.227/1014/index.m3u8
+#EXTINF:6 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/STS.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11207",СТС
+http://178.163.5.162:4022/udp/234.0.0.239:2000
+#EXTINF:6 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",My5
+http://82.215.111.227/1012/index.m3u8
+#EXTINF:7 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/tnt4.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7979",ТНТ4
+http://178.163.5.162:4022/udp/234.0.0.181:2000
+#EXTINF:7 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Sevimli
+http://82.215.111.227/1017/index.m3u8
+#EXTINF:8 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/TV3.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10972",ТВ3
+http://178.163.5.162:4022/udp/234.0.0.171:2000
+#EXTINF:8 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Zo'r TV
+http://82.215.111.227/1016/index.m3u8
+#EXTINF:9 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/ntv-hit.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11107",НТВ-Хит
+http://178.163.5.162:4022/udp/234.0.0.236:2000
+#EXTINF:9 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",tasix.media
+https://tt.tas-ix.media:444/telegram/tracks-v1a1/mono.m3u8
+#EXTINF:10 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/belros.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10131",БелРос
+http://178.163.5.162:4022/udp/234.0.0.251:2000
+#EXTINF:10 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Makon TV
+https://st1.uzdigital.tv/Makon_TV/tracks-v1a1/mono.ts.m3u8
+#EXTINF:11 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/che.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11132",Че
+http://178.163.5.162:4022/udp/234.0.0.218:2000
+#EXTINF:11 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",LuxTV
+http://82.215.111.227/1210/index.m3u8
+#EXTINF:12 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/Mir.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11133",Мир
+http://178.163.5.162:4022/udp/234.0.0.5:2000
+#EXTINF:13 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/Pjatica.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11131",Пятница!
+http://178.163.5.162:4022/udp/234.0.0.235:2000
+#EXTINF:14 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/5_kanal_Ro__ija.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10968",Пятый Канал
+http://178.163.5.162:4022/udp/234.0.0.205:2000
+#EXTINF:15 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/Rossija_24.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11014",Россия 24
+http://178.163.5.162:4022/udp/234.0.0.207:2000
+#EXTINF:16 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/TVC.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11020",ТВЦ
+http://178.163.5.162:4022/udp/234.0.0.192:2000
+#EXTINF:17 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/moskva24.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11280",Москва 24
+http://178.163.5.162:4022/udp/234.0.0.194:2000
+#EXTINF:18 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/togliatty24.png" tvg-id="simpleTVFakeEpgId",Тольятти 24 HD
+http://178.163.5.162:4022/udp/234.0.0.234:2000
+#EXTINF:19 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/Doma_hnij.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10438",Домашний
+http://178.163.5.162:4022/udp/234.0.0.191:2000
+#EXTINF:20 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/gubernia.png" tvg-id="simpleTVFakeEpgId",Губерния
+http://178.163.5.162:4022/udp/234.0.0.7:2000
+#EXTINF:21 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/muz_tv.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11061",Ю
+http://178.163.5.162:4022/udp/234.0.0.229:2000
+#EXTINF:22 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/Sover_henno__ekretno.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7950",Совершенно секретно
+http://178.163.5.162:4022/udp/234.0.0.185:2000
+#EXTINF:23 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/Vremja.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7793",Время
+http://178.163.5.162:4022/udp/234.0.0.225:2000
+#EXTINF:24 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/bel24.png" tvg-id="simpleTVFakeEpgId",Беларусь-24
+http://178.163.5.162:4022/udp/234.0.0.199:2000
+#EXTINF:25 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/24_Texno.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9326",24 Техно
+http://178.163.5.162:4022/udp/234.0.0.247:2000
+#EXTINF:26 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/2x2.png" tvg-id="simpleTVFakeEpgId",Канал 2x2
+http://178.163.5.162:4022/udp/234.0.0.244:2000
+#EXTINF:27 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/subbota.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7960",Суббота
+http://178.163.5.162:4022/udp/234.0.0.100:2000
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/983.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11055",Первый канал FHD
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2402/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/1000.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9187",ОТР HD
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/20018/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/983.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11055",Первый канал HD
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/204/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/146.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11055",Первый канал
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/127/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2034.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11055" tvg-shift="-2",Первый канал +2
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/714/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3025.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11055" tvg-shift="-4",Первый канал +4
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6021/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3025.png" tvg-id="simpleTVFakeEpgId",Первый канал +4 HD
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15117/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/20.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11055" tvg-shift="-6",Первый канал +6
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6037/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3027.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11055" tvg-shift="-8",Первый канал +8
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6050/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/984.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10971",Россия 1 FHD
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2409/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/984.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10971",Россия 1 HD
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/205/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/711.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10971",Россия 1
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/504/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3000.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10971" tvg-shift="-2",Россия 1 +2
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6011/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/711.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10971" tvg-shift="-4",Россия 1 +4
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6022/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3002.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10971" tvg-shift="-6",Россия 1 +6
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6038/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/711.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10971" tvg-shift="-8",Россия 1 +8
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6051/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2001.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11127",НТВ HD
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/213/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2041.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11107",НТВ Хит HD
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/16062/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/7258.png" tvg-id="simpleTVFakeEpgId",НТВ Мир
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/14035/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/162.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11127",НТВ
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/501/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/162.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11127" tvg-shift="-2",НТВ +2
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/713/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2964.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11127" tvg-shift="-4",НТВ +4
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6024/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3028.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11127" tvg-shift="-7",НТВ +7
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6039/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3029.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11127" tvg-shift="-8",НТВ +8
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6053/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/649.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11020",ТВЦ
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/520/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/649.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11020" tvg-shift="-2",ТВЦ +2
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/716/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3037.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11020" tvg-shift="-4",ТВЦ +4
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6027/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3038.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11020" tvg-shift="-7",ТВЦ +7
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6041/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3039.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11020" tvg-shift="-8",ТВЦ +8
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6056/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/427.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10968",Пятый канал
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/112/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/427.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10968" tvg-shift="-2",Пятый канал +2
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/746/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/427.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10968" tvg-shift="-4",Пятый канал +4
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6025/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/427.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10968" tvg-shift="-7",Пятый канал +7
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6040/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/427.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10968" tvg-shift="-8",Пятый канал +8
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6054/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/726.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11133",Мир HD
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15119/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/1767.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11208",ТНТ FHD
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2417/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/1767.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11208",ТНТ HD
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/237/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/353.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11208",ТНТ
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/502/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/353.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11208" tvg-shift="-2",ТНТ +2
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/717/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3023.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11208" tvg-shift="-4",ТНТ +4
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6035/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3024.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11208" tvg-shift="-7",ТНТ +7
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6049/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/79.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11207",СТС
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/506/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3007.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11207" tvg-shift="-2",СТС +2
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6015/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3008.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11207" tvg-shift="-4",СТС +4
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6029/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3009.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11207" tvg-shift="-7",СТС +7
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6043/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/18.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9188",РЕН ТВ HD
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2024/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/18.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9188",РЕН ТВ
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/128/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/18.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9188" tvg-shift="-2",РЕН ТВ +2
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/747/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/18.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9188" tvg-shift="-4",РЕН ТВ +4
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6028/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/18.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9188" tvg-shift="-7",РЕН ТВ +7
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6042/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/726.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11133",Мир
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/113/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3019.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11133" tvg-shift="-2",Мир +2
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6019/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3020.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11133" tvg-shift="-4",Мир +4
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6034/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3021.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11133" tvg-shift="-7",Мир +7
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6048/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/1000.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9187",ОТР
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/705/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3004.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9187" tvg-shift="-2",ОТР +2
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6014/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3005.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9187" tvg-shift="-4",ОТР +4
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6026/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/6669.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8008",Звезда Плюс HD
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/19230/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/405.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11098",Звезда
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/544/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/405.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11098" tvg-shift="-2",Звезда +2
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/739/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3035.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11098" tvg-shift="-4",Звезда +4
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6033/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3036.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11098" tvg-shift="-7",Звезда +7
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6047/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/1322.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7959",СТС Love
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/103/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/1598.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11132",Че!
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/513/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/698.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10972",ТВ-3 HD
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/5033/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/698.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10972",ТВ-3
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/508/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/698.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10972" tvg-shift="-2",ТВ-3 +2
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6017/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/698.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10972" tvg-shift="-4",ТВ-3 +4
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6031/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/698.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10972" tvg-shift="-7",ТВ-3 +7
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6045/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2765.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11131",Пятница! HD
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/5031/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/1003.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11131",Пятница!
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/503/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/1003.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11131" tvg-shift="-2",Пятница! +2
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6018/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/1003.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11131" tvg-shift="-4",Пятница! +4
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6032/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/1003.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11131" tvg-shift="-7",Пятница! +7
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6046/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2401.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9489",RTVi
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2086/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2288.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7960",Суббота!
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/826/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/304.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10438",Домашний
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/514/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3010.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10438" tvg-shift="-2",Домашний +2
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6016/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3011.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10438" tvg-shift="-4",Домашний +4
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6030/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3012.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10438" tvg-shift="-7",Домашний +7
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6044/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2142.png" tvg-id="simpleTVFakeEpgId",Настоящее время
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/986/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/783.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9186",Ностальгия
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/102/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/898.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11061",Ю ТВ
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/534/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/1649.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7979",ТНТ4
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/104/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/1700.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7831",КВН ТВ
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/546/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/663.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7947",Сарафан
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/748/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/6037.png" tvg-id="simpleTVFakeEpgId",Московское образование HD
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/16043/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2457.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9094",Точка ТВ
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2053/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2265.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9933",360 HD
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2065/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2265.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9933",360
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/825/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2141.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7954",СПАС
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/983/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2448.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11057",Союз
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2016/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2449.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9054",Здоровое ТВ
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2022/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2450.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9079",Психология
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2025/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2455.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9096",Успех
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2041/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2456.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7851",Кто есть кто
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2042/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2462.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9071",Открытый мир
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2078/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2463.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9053",Загородный
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2099/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2469.png" tvg-id="simpleTVFakeEpgId",Три ангела
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2116/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2464.png" tvg-id="simpleTVFakeEpgId",БСТ
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2108/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2476.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7849",Красная линия
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2147/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2465.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10067",ЛДПР ТВ
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2110/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2478.png" tvg-id="simpleTVFakeEpgId",Хузур ТВ
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2150/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2399.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8825",Дождь
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2030/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2130.png" tvg-id="simpleTVFakeEpgId",GNC HD
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/955/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2398.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7790",Вместе-РФ
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2073/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/187.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9173",Россия К
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/505/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/1676.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11241",E TV HD
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/5048/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/18.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9188",РЕН ТВ HD orig
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/9002/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2770.png" tvg-id="simpleTVFakeEpgId",Gametoon HD
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/5049/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2001.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11127",НТВ HD orig
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/9028/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2470.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7931",Ратник HD
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2119/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2295.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11046",RT Documentary HD orig
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/9031/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2265.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9933",360 HD orig
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/9036/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/649.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11020",ТВЦ orig
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/9095/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/427.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10968",Пятый канал orig
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/9096/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/405.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11098",Звезда orig
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/9098/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/405.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11098",Звезда HD
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15115/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/1322.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7959",СТС Love orig
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/9099/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/1000.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9187",ОТР orig
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/9100/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/1598.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11132",Че! orig
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/9101/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2401.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9489",RTVi HD orig
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/9102/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2288.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7960",Суббота! orig
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/9103/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2288.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7960",Суббота! HD
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15118/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/304.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10438",Домашний orig
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/9104/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/304.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10438",Домашний HD
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15116/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/783.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9186",Ностальгия orig
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/9106/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/898.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11061",Ю ТВ orig
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/9107/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/1700.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7831",КВН ТВ orig
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/9108/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/663.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7947",Сарафан orig
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/9109/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2457.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9094",Точка ТВ orig
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/9110/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2141.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7954",СПАС orig
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/9111/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2448.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11057",Союз orig
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/9112/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2449.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9054",Здоровое ТВ orig
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/9113/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2450.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9079",Психология orig
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/9114/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2455.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9096",Успех orig
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/9115/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2456.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7851",Кто есть кто orig
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/9116/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2462.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9071",Открытый мир orig
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/9117/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2476.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7849",Красная линия orig
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/9119/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2465.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10067",ЛДПР ТВ orig
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/9120/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2478.png" tvg-id="simpleTVFakeEpgId",Хузур ТВ HD orig
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/9121/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2398.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7790",Вместе-РФ orig
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/9124/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/146.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11055",Первый канал orig
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/9201/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/711.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10971",Россия 1 orig
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/9202/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/984.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10971",Россия 1 HD 50
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15133/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/162.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11127",НТВ orig
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/9203/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/353.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11208",ТНТ orig
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/9204/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/18.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9188",РЕН ТВ orig
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/9205/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/698.png" tvg-id="simpleTVFakeEpgId",ТВ-3 orig
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/9206/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/1003.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11131",Пятница! orig
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/9207/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/1649.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7979",ТНТ4 orig
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/9208/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2265.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9933",360 orig
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/9209/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2469.png" tvg-id="simpleTVFakeEpgId",Три ангела HD orig
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/9210/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/726.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11133",Мир orig
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/9211/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2463.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9053",Загородный orig
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/9212/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/353.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11208",ТНТ HD orig
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/7251/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/984.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10971",Россия 1 HD orig
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/7252/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/983.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11055",Первый канал HD orig
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/7253/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/4661.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8008",Звезда Плюс
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/10059/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2295.png" tvg-id="simpleTVFakeEpgId",RT Documentary HD
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/14157/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/5605.png" tvg-id="simpleTVFakeEpgId",MS Crime HD
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15136/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/5691.png" tvg-id="simpleTVFakeEpgId",ТВЦ International
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15229/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/5692.png" tvg-id="simpleTVFakeEpgId",ТНТ International HD
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15230/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/711.png" tvg-id="simpleTVFakeEpgId",Россия 1 +1 (Приволжье)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15284/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/146.png" tvg-id="simpleTVFakeEpgId",Первый канал +4 (Алтай)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15287/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/711.png" tvg-id="simpleTVFakeEpgId",Россия 1 +4 (Алтай)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15288/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/162.png" tvg-id="simpleTVFakeEpgId",НТВ +4 (Алтай)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15290/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/427.png" tvg-id="simpleTVFakeEpgId",Пятый канал +4 (Алтай)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15291/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/79.png" tvg-id="simpleTVFakeEpgId",СТС +4 (Алтай)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15293/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/304.png" tvg-id="simpleTVFakeEpgId",Домашний +4 (Алтай)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15294/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/698.png" tvg-id="simpleTVFakeEpgId",ТВ-3 +4 (Алтай)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15295/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/1003.png" tvg-id="simpleTVFakeEpgId",Пятница! +4 (Алтай)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15296/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/405.png" tvg-id="simpleTVFakeEpgId",Звезда +4 (Алтай)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15297/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/353.png" tvg-id="simpleTVFakeEpgId",ТНТ +4 (Алтай)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15298/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="simpleTVFakeEpgId",Первый канал +2 (Уфа)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15301/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3000.png" tvg-id="simpleTVFakeEpgId",Россия 1 +2 (Уфа)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15302/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3007.png" tvg-id="simpleTVFakeEpgId",СТС +2 (Уфа)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15303/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3022.png" tvg-id="simpleTVFakeEpgId",ТНТ +2 (Уфа)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15304/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2036.png" tvg-id="simpleTVFakeEpgId",НТВ +2 (Уфа)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15305/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2039.png" tvg-id="simpleTVFakeEpgId",Звезда +2 (Уфа)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15306/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3016.png" tvg-id="simpleTVFakeEpgId",Пятница! +2 (Уфа)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15308/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/18.png" tvg-id="simpleTVFakeEpgId",РЕН ТВ +2 (Уфа)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15309/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/711.png" tvg-id="simpleTVFakeEpgId",Россия 1 +0 (Липецк)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15313/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/162.png" tvg-id="simpleTVFakeEpgId",НТВ +0 (Липецк)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15315/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2035.png" tvg-id="simpleTVFakeEpgId",Пятый канал +2 (Уфа)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15316/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3010.png" tvg-id="simpleTVFakeEpgId",Домашний +2 (Уфа)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15317/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/427.png" tvg-id="simpleTVFakeEpgId",Пятый канал +0 (Липецк)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15318/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/698.png" tvg-id="simpleTVFakeEpgId",ТВ-3 +2 (Уфа)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15319/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2038.png" tvg-id="simpleTVFakeEpgId",ТВЦ +2 (Уфа)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15320/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/304.png" tvg-id="simpleTVFakeEpgId",Домашний +0 (Невинномысск)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15321/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/162.png" tvg-id="simpleTVFakeEpgId",НТВ +0 (Невинномысск)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15322/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/146.png" tvg-id="simpleTVFakeEpgId",Первый канал +0 (Невинномысск)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15323/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/711.png" tvg-id="simpleTVFakeEpgId",Россия 1 +0 (Невинномысск)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15324/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/1003.png" tvg-id="simpleTVFakeEpgId",Пятница! +0 (Невинномысск)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15325/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/427.png" tvg-id="simpleTVFakeEpgId",Пятый канал +0 (Невинномысск)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15326/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/18.png" tvg-id="simpleTVFakeEpgId",РЕН ТВ +0 (Невинномысск)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15327/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/187.png" tvg-id="simpleTVFakeEpgId",Россия К +0 (Невинномысск)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15328/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/79.png" tvg-id="simpleTVFakeEpgId",СТС +0 (Невинномысск)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15330/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/698.png" tvg-id="simpleTVFakeEpgId",ТВ
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15331/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/353.png" tvg-id="simpleTVFakeEpgId",ТНТ +0 (Невинномысск)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15332/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3026.png" tvg-id="simpleTVFakeEpgId",Первый канал +7 (Владивосток)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15333/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/7989.png" tvg-id="simpleTVFakeEpgId",Россия 1 +7 (Владивосток)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15334/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3028.png" tvg-id="simpleTVFakeEpgId",НТВ +7 (Владивосток)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15336/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/427.png" tvg-id="simpleTVFakeEpgId",Пятый канал +7 (Владивосток)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15337/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/1101.png" tvg-id="simpleTVFakeEpgId",Россия К +7 (Владивосток)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15338/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3005.png" tvg-id="simpleTVFakeEpgId",ОТР +7 (Владивосток)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15341/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3038.png" tvg-id="simpleTVFakeEpgId",ТВЦ +7 (Владивосток)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15342/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3034.png" tvg-id="simpleTVFakeEpgId",РЕН ТВ +7 (Владивосток)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15343/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="simpleTVFakeEpgId",СПАС +7 (Владивосток)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15344/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3012.png" tvg-id="simpleTVFakeEpgId",Домашний +7 (Владивосток)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15345/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/698.png" tvg-id="simpleTVFakeEpgId",ТВ-3 +7 (Владивосток)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15346/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3018.png" tvg-id="simpleTVFakeEpgId",Пятница! +7 (Владивосток)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15347/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3036.png" tvg-id="simpleTVFakeEpgId",Звезда +7 (Владивосток)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15348/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3021.png" tvg-id="simpleTVFakeEpgId",Мир +7 (Владивосток)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15349/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3024.png" tvg-id="simpleTVFakeEpgId",ТНТ +7 (Владивосток)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15350/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3009.png" tvg-id="simpleTVFakeEpgId",СТС +7 (Владивосток)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15351/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/79.png" tvg-id="simpleTVFakeEpgId",СТС +5 (Иркутск)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15355/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/353.png" tvg-id="simpleTVFakeEpgId",ТНТ +5 (Иркутск)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15357/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/9621.png" tvg-id="simpleTVFakeEpgId",БСТ 24 (Братск)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15359/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="simpleTVFakeEpgId",Россия 1 +5 (Братск)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15360/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3001.png" tvg-id="simpleTVFakeEpgId",Россия 1 +4 (Абакан)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15367/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2464.png" tvg-id="simpleTVFakeEpgId",БСТ +2 (Нефтекамск)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15369/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2464.png" tvg-id="simpleTVFakeEpgId",БСТ +2 (Белорецк)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15370/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/9157.png" tvg-id="simpleTVFakeEpgId",БТК HD (Белорецк)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15371/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/649.png" tvg-id="simpleTVFakeEpgId",ТВЦ +0 (Липецк)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15372/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/1003.png" tvg-id="simpleTVFakeEpgId",Пятница! +0 (Липецк)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15373/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/353.png" tvg-id="simpleTVFakeEpgId",ТНТ +0 (Липецк)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15374/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/146.png" tvg-id="simpleTVFakeEpgId",Первый канал +0 (Липецк)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15375/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3008.png" tvg-id="simpleTVFakeEpgId",СТС +4 (Кузбасс)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15376/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3001.png" tvg-id="simpleTVFakeEpgId",Россия 1 +3 (Омск)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15377/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3011.png" tvg-id="simpleTVFakeEpgId",Домашний +3 (Омск)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15379/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/698.png" tvg-id="simpleTVFakeEpgId",ТВ-3 +3 (Омск)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15380/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3035.png" tvg-id="simpleTVFakeEpgId",Звезда +3 (Омск)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15381/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3020.png" tvg-id="simpleTVFakeEpgId",Мир +3 (Омск)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15382/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3023.png" tvg-id="simpleTVFakeEpgId",ТНТ +3 (Омск)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15383/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2036.png" tvg-id="simpleTVFakeEpgId",НТВ +2 (Нефтекамск)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15384/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3025.png" tvg-id="simpleTVFakeEpgId",Первый канал +4 (Томск)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15385/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3001.png" tvg-id="simpleTVFakeEpgId",Россия 1 +4 (Томск)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15386/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2964.png" tvg-id="simpleTVFakeEpgId",НТВ +4 (Томск)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15388/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/427.png" tvg-id="simpleTVFakeEpgId",Пятый канал +4 (Томск)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15389/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3037.png" tvg-id="simpleTVFakeEpgId",ТВЦ +4 (Томск)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15391/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3033.png" tvg-id="simpleTVFakeEpgId",РЕН ТВ +4 (Томск)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15392/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3008.png" tvg-id="simpleTVFakeEpgId",СТС +4 (Томск)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15393/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3011.png" tvg-id="simpleTVFakeEpgId",Домашний +4 (Томск)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15394/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/698.png" tvg-id="simpleTVFakeEpgId",ТВ-3 +4 (Томск)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15395/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3017.png" tvg-id="simpleTVFakeEpgId",Пятница! +4 (Томск)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15396/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3023.png" tvg-id="simpleTVFakeEpgId",ТНТ +4 (Томск)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15398/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3035.png" tvg-id="simpleTVFakeEpgId",Звезда +4 (Томск)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15397/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/711.png" tvg-id="simpleTVFakeEpgId",Россия 1 +0 (Алания)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15403/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/711.png" tvg-id="simpleTVFakeEpgId",Россия 1 +0 (Белгород)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15408/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/162.png" tvg-id="simpleTVFakeEpgId",НТВ +0 (Белгород)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15410/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/427.png" tvg-id="simpleTVFakeEpgId",Пятый канал +0 (Белгород)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15411/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="simpleTVFakeEpgId",Россия 1 +5 (Иркутск)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15413/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3001.png" tvg-id="simpleTVFakeEpgId",Россия 1 +4 (Красноярск)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15415/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/5818.png" tvg-id="simpleTVFakeEpgId",Прима (Красноярск)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15417/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/5821.png" tvg-id="simpleTVFakeEpgId",ТВК (Красноярск)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15420/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/698.png" tvg-id="simpleTVFakeEpgId",ТВ
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15426/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/1003.png" tvg-id="simpleTVFakeEpgId",Пятница! +0 (Белгород)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15427/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/353.png" tvg-id="simpleTVFakeEpgId",ТНТ +0 (Белгород)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15428/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3025.png" tvg-id="simpleTVFakeEpgId",Первый канал +3 (Омск)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15431/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2964.png" tvg-id="simpleTVFakeEpgId",НТВ +3 (Омск)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15433/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/427.png" tvg-id="simpleTVFakeEpgId",Пятый канал +3 (Омск)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15434/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/1100.png" tvg-id="simpleTVFakeEpgId",Россия К +3 (Омск)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15435/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3037.png" tvg-id="simpleTVFakeEpgId",ТВЦ +3 (Омск)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15437/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3033.png" tvg-id="simpleTVFakeEpgId",РЕН ТВ +3 (Омск)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15438/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3007.png" tvg-id="simpleTVFakeEpgId",СТС +3 (Омск)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15439/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3017.png" tvg-id="simpleTVFakeEpgId",Пятница! +3 (Омск)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15440/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/146.png" tvg-id="simpleTVFakeEpgId",Первый канал +0 (Элиста)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15443/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/4642.png" tvg-id="simpleTVFakeEpgId",Россия К +2 (Пермь)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15445/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/711.png" tvg-id="simpleTVFakeEpgId",Россия 1 +0 (Элиста)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15447/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/162.png" tvg-id="simpleTVFakeEpgId",НТВ +0 (Элиста)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15449/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/427.png" tvg-id="simpleTVFakeEpgId",Пятый канал +0 (Элиста)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15450/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/187.png" tvg-id="simpleTVFakeEpgId",Россия К +0 (Элиста)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15451/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/649.png" tvg-id="simpleTVFakeEpgId",ТВЦ +0 (Элиста)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15454/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/18.png" tvg-id="simpleTVFakeEpgId",РЕН ТВ +0 (Элиста)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15455/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/79.png" tvg-id="simpleTVFakeEpgId",СТС +0 (Элиста)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15456/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/698.png" tvg-id="simpleTVFakeEpgId",ТВ
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15457/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/405.png" tvg-id="simpleTVFakeEpgId",Звезда +0 (Элиста)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15458/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/726.png" tvg-id="simpleTVFakeEpgId",Мир +0 (Элиста)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15459/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/353.png" tvg-id="simpleTVFakeEpgId",ТНТ +0 (Элиста)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15460/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3022.png" tvg-id="simpleTVFakeEpgId",ТНТ +2 (Белорецк)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15462/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/146.png" tvg-id="simpleTVFakeEpgId",Первый канал +0 (Тамбов)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15464/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/711.png" tvg-id="simpleTVFakeEpgId",Россия 1 +0 (Тамбов)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15465/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/162.png" tvg-id="simpleTVFakeEpgId",НТВ +0 (Тамбов)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15466/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/427.png" tvg-id="simpleTVFakeEpgId",Пятый канал +0 (Тамбов)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15467/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/18.png" tvg-id="simpleTVFakeEpgId",РЕН ТВ +0 (Тамбов)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15469/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/79.png" tvg-id="simpleTVFakeEpgId",СТС +0 (Тамбов)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15470/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/304.png" tvg-id="simpleTVFakeEpgId",Домашний +0 (Тамбов)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15471/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/1003.png" tvg-id="simpleTVFakeEpgId",Пятница! +0 (Тамбов)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15472/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/353.png" tvg-id="simpleTVFakeEpgId",ТНТ +0 (Тамбов)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15473/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/5867.png" tvg-id="simpleTVFakeEpgId",ОТВ (Владивосток)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15476/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/304.png" tvg-id="simpleTVFakeEpgId",Домашний +0 (Белгород)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15477/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/79.png" tvg-id="simpleTVFakeEpgId",СТС +0 (Белгород)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15479/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/18.png" tvg-id="simpleTVFakeEpgId",РЕН ТВ +0 (Белгород)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15480/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="simpleTVFakeEpgId",Первый канал +2 (Нефтекамск)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15481/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3007.png" tvg-id="simpleTVFakeEpgId",СТС +2 (Нефтекамск)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15482/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3016.png" tvg-id="simpleTVFakeEpgId",Пятница! +2 (Нефтекамск)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15483/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/698.png" tvg-id="simpleTVFakeEpgId",ТВ-3 +2 (Нефтекамск)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15484/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/3022.png" tvg-id="simpleTVFakeEpgId",ТНТ +2 (Нефтекамск)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15485/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-id="simpleTVFakeEpgId",Первый канал +2 (Белорецк)
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15486/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/6029.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9793",Первый российский национальный канал HD
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/16023/index.m3u8
+#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.one/img/2399.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8825",Дождь HD
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/20083/index.m3u8
+#EXTINF:-1 group-title="Казахстан | Қазақстан" tvg-logo="http://epg.one/img/2569.png" tvg-id="simpleTVFakeEpgId",Qazaqstan KZ
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2210/index.m3u8
+#EXTINF:-1 group-title="Казахстан | Қазақстан" tvg-logo="http://epg.one/img/9165.png" tvg-id="simpleTVFakeEpgId",Qadam TV KZ
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15005/index.m3u8
+#EXTINF:-1 group-title="Казахстан | Қазақстан" tvg-logo="http://epg.one/img/9166.png" tvg-id="simpleTVFakeEpgId",Ассамблея ТВ KZ
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15004/index.m3u8
+#EXTINF:-1 group-title="Казахстан | Қазақстан" tvg-logo="http://epg.one/img/9168.png" tvg-id="simpleTVFakeEpgId",Айгак KZ
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15002/index.m3u8
+#EXTINF:-1 group-title="Казахстан | Қазақстан" tvg-logo="http://epg.one/img/9169.png" tvg-id="simpleTVFakeEpgId",Ontustik KZ
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15001/index.m3u8
+#EXTINF:-1 group-title="Казахстан | Қазақстан" tvg-logo="http://epg.one/img/9170.png" tvg-id="simpleTVFakeEpgId",Otyrar KZ
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/14237/index.m3u8
+#EXTINF:-1 group-title="Казахстан | Қазақстан" tvg-logo="http://epg.one/img/9171.png" tvg-id="simpleTVFakeEpgId",Qyzylorda KZ
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/14233/index.m3u8
+#EXTINF:-1 group-title="Казахстан | Қазақстан" tvg-logo="http://epg.one/img/9172.png" tvg-id="simpleTVFakeEpgId",Jambyl KZ
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/14232/index.m3u8
+#EXTINF:-1 group-title="Казахстан | Қазақстан" tvg-logo="http://epg.one/img/9173.png" tvg-id="simpleTVFakeEpgId",Ulytau KZ
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/14231/index.m3u8
+#EXTINF:-1 group-title="Казахстан | Қазақстан" tvg-logo="http://epg.one/img/9174.png" tvg-id="simpleTVFakeEpgId",Aqsham TV KZ
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/14223/index.m3u8
+#EXTINF:-1 group-title="Казахстан | Қазақстан" tvg-logo="http://epg.one/img/2570.png" tvg-id="simpleTVFakeEpgId",КТК HD KZ
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2211/index.m3u8
+#EXTINF:-1 group-title="Казахстан | Қазақстан" tvg-logo="http://epg.one/img/2571.png" tvg-id="simpleTVFakeEpgId",Первый канал Евразия KZ
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2212/index.m3u8
+#EXTINF:-1 group-title="Казахстан | Қазақстан" tvg-logo="http://epg.one/img/2572.png" tvg-id="simpleTVFakeEpgId",Седьмой канал KZ
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2213/index.m3u8
+#EXTINF:-1 group-title="Казахстан | Қазақстан" tvg-logo="http://epg.one/img/2573.png" tvg-id="simpleTVFakeEpgId",Astana TV KZ
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2214/index.m3u8
+#EXTINF:-1 group-title="Казахстан | Қазақстан" tvg-logo="http://epg.one/img/7091.png" tvg-id="simpleTVFakeEpgId",Jibek Joly TV KZ
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2215/index.m3u8
+#EXTINF:-1 group-title="Казахстан | Қазақстан" tvg-logo="http://epg.one/img/7092.png" tvg-id="simpleTVFakeEpgId",El Arna KZ
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2216/index.m3u8
+#EXTINF:-1 group-title="Казахстан | Қазақстан" tvg-logo="http://epg.one/img/2639.png" tvg-id="simpleTVFakeEpgId",31 канал KZ
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2217/index.m3u8
+#EXTINF:-1 group-title="Казахстан | Қазақстан" tvg-logo="http://epg.one/img/2640.png" tvg-id="simpleTVFakeEpgId",НТК KZ
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2218/index.m3u8
+#EXTINF:-1 group-title="Казахстан | Қазақстан" tvg-logo="http://epg.one/img/9768.png" tvg-id="simpleTVFakeEpgId",Alatau TV KZ
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2219/index.m3u8
+#EXTINF:-1 group-title="Казахстан | Қазақстан" tvg-logo="http://epg.one/img/7093.png" tvg-id="simpleTVFakeEpgId",Туран ТВ KZ
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2220/index.m3u8
+#EXTINF:-1 group-title="Казахстан | Қазақстан" tvg-logo="http://epg.one/img/2643.png" tvg-id="simpleTVFakeEpgId",5 канал KZ
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2221/index.m3u8
+#EXTINF:-1 group-title="Казахстан | Қазақстан" tvg-logo="http://epg.one/img/7802.png" tvg-id="simpleTVFakeEpgId",Saryarqa KZ
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2222/index.m3u8
+#EXTINF:-1 group-title="Казахстан | Қазақстан" tvg-logo="http://epg.one/img/2576.png" tvg-id="simpleTVFakeEpgId",Хабар HD KZ
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2223/index.m3u8
+#EXTINF:-1 group-title="Казахстан | Қазақстан" tvg-logo="http://epg.one/img/2578.png" tvg-id="simpleTVFakeEpgId",24 KZ
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2225/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/2744.png" tvg-id="simpleTVFakeEpgId",TRT 4K TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/4001/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-id="simpleTVFakeEpgId",TRT Spor Yildiz HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2145/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/2951.png" tvg-id="simpleTVFakeEpgId",TRT Turk HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2281/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/2589.png" tvg-id="simpleTVFakeEpgId",A Haber TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2259/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3961.png" tvg-id="simpleTVFakeEpgId",A2 TV HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2260/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/2600.png" tvg-id="simpleTVFakeEpgId",ATV TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2261/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/2591.png" tvg-id="simpleTVFakeEpgId",Minika Go HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2266/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/2592.png" tvg-id="simpleTVFakeEpgId",NR1 Turk HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2267/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/2593.png" tvg-id="simpleTVFakeEpgId",Star TV TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2274/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/2596.png" tvg-id="simpleTVFakeEpgId",TV8 HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2286/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/2602.png" tvg-id="simpleTVFakeEpgId",DMAX FHD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2290/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/2598.png" tvg-id="simpleTVFakeEpgId",TRT 1 HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2293/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/2589.png" tvg-id="simpleTVFakeEpgId",A Haber HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2294/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/2600.png" tvg-id="simpleTVFakeEpgId",ATV HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2296/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/2665.png" tvg-id="simpleTVFakeEpgId",Power HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2297/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/2666.png" tvg-id="simpleTVFakeEpgId",Power Turk HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2298/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/2601.png" tvg-id="simpleTVFakeEpgId",NTV HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2299/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/2602.png" tvg-id="simpleTVFakeEpgId",DMAX HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2300/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/2593.png" tvg-id="simpleTVFakeEpgId",Star TV HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2301/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/2601.png" tvg-id="simpleTVFakeEpgId",NTV TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2302/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/2605.png" tvg-id="simpleTVFakeEpgId",Kanal D TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2304/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/2606.png" tvg-id="simpleTVFakeEpgId",CNN Turk HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2305/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/2607.png" tvg-id="simpleTVFakeEpgId",Teve2 FHD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2306/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/2608.png" tvg-id="simpleTVFakeEpgId",Show TV HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2307/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3979.png" tvg-id="simpleTVFakeEpgId",Haber Turk FHD
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2308/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/9801.png" tvg-id="simpleTVFakeEpgId",NOW HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2309/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/2668.png" tvg-id="simpleTVFakeEpgId",Beyaz TV HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2310/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3986.png" tvg-id="simpleTVFakeEpgId",Ulke TV HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2311/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/2613.png" tvg-id="simpleTVFakeEpgId",Bloomberg HT TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2317/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/2615.png" tvg-id="simpleTVFakeEpgId",24 TV HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2319/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3819.png" tvg-id="simpleTVFakeEpgId",TV4 HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2321/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/2605.png" tvg-id="simpleTVFakeEpgId",Kanal D HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2326/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/2622.png" tvg-id="simpleTVFakeEpgId",TV100 HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2328/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3964.png" tvg-id="simpleTVFakeEpgId",360 TV HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/2320/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3810.png" tvg-id="simpleTVFakeEpgId",beIN Box Office 3 HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6743/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3811.png" tvg-id="simpleTVFakeEpgId",beIN Box Office 1 HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6744/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3812.png" tvg-id="simpleTVFakeEpgId",beIN Box Office 2 HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6745/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3817.png" tvg-id="simpleTVFakeEpgId",TV5 TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6751/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3818.png" tvg-id="simpleTVFakeEpgId",TV 41 TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6752/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3819.png" tvg-id="simpleTVFakeEpgId",TV4 TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6753/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3822.png" tvg-id="simpleTVFakeEpgId",Line TV Bursa TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6759/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3824.png" tvg-id="simpleTVFakeEpgId",Kibris Genc TV TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6762/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3825.png" tvg-id="simpleTVFakeEpgId",Kardelen TV TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6763/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3828.png" tvg-id="simpleTVFakeEpgId",Kanal Avrupa TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6766/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3829.png" tvg-id="simpleTVFakeEpgId",ER TV TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6768/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3831.png" tvg-id="simpleTVFakeEpgId",DeHa TV TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6771/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3832.png" tvg-id="simpleTVFakeEpgId",Ciftci TV TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6772/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3833.png" tvg-id="simpleTVFakeEpgId",BRT 3 TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6774/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3834.png" tvg-id="simpleTVFakeEpgId",BRT 2 HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6775/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3835.png" tvg-id="simpleTVFakeEpgId",BRTV TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6776/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3836.png" tvg-id="simpleTVFakeEpgId",AS TV Bursa TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6777/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3837.png" tvg-id="simpleTVFakeEpgId",Anadolu Dernek TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6778/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3839.png" tvg-id="simpleTVFakeEpgId",Akit TV TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6780/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/5092.png" tvg-id="simpleTVFakeEpgId",beIN Sports 1 HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6781/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3844.png" tvg-id="simpleTVFakeEpgId",Ucankus TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6785/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3845.png" tvg-id="simpleTVFakeEpgId",TV Kayseri TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6786/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3846.png" tvg-id="simpleTVFakeEpgId",Yaban HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6787/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3848.png" tvg-id="simpleTVFakeEpgId",FM TV TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6789/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3849.png" tvg-id="simpleTVFakeEpgId",Lalegul TV TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6790/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3850.png" tvg-id="simpleTVFakeEpgId",TV 2000 TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6791/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3851.png" tvg-id="simpleTVFakeEpgId",Meltem TV TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6792/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3852.png" tvg-id="simpleTVFakeEpgId",Dost TV TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6793/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3855.png" tvg-id="simpleTVFakeEpgId",TGRT Haber HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6796/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/2951.png" tvg-id="simpleTVFakeEpgId",TRT Turk TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6798/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3858.png" tvg-id="simpleTVFakeEpgId",TRT Avaz TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6799/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3860.png" tvg-id="simpleTVFakeEpgId",DiziSmart Premium HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6802/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3862.png" tvg-id="simpleTVFakeEpgId",beIN Gurme HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6804/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3864.png" tvg-id="simpleTVFakeEpgId",Sinema TV HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6806/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3865.png" tvg-id="simpleTVFakeEpgId",Movie Smart Turk TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6807/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3867.png" tvg-id="simpleTVFakeEpgId",Movie Smart Classic HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6811/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3868.png" tvg-id="simpleTVFakeEpgId",Movie Smart Action TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6812/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3869.png" tvg-id="simpleTVFakeEpgId",beIN Series Vice TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6813/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3870.png" tvg-id="simpleTVFakeEpgId",beIN Series 2 HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6814/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3872.png" tvg-id="simpleTVFakeEpgId",Tivibu Spor 2 HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6816/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3873.png" tvg-id="simpleTVFakeEpgId",beIN Sports 1 FHD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6817/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3874.png" tvg-id="simpleTVFakeEpgId",beIN Sports 2 HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6818/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3874.png" tvg-id="simpleTVFakeEpgId",beIN Sports 2 FHD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6819/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3876.png" tvg-id="simpleTVFakeEpgId",beIN Sports 3 HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6820/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3876.png" tvg-id="simpleTVFakeEpgId",beIN Sports 3 FHD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6821/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3878.png" tvg-id="simpleTVFakeEpgId",beIN Sports 4 HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6822/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3878.png" tvg-id="simpleTVFakeEpgId",beIN Sports 4 FHD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6823/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3880.png" tvg-id="simpleTVFakeEpgId",beIN Sports Max 1 HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6824/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3881.png" tvg-id="simpleTVFakeEpgId",S Sport HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6825/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3884.png" tvg-id="simpleTVFakeEpgId",Sports TV HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6828/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3885.png" tvg-id="simpleTVFakeEpgId",Eurosport 1 HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6829/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3886.png" tvg-id="simpleTVFakeEpgId",Eurosport 2 HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6830/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/2587.png" tvg-id="simpleTVFakeEpgId",A Spor TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6832/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3890.png" tvg-id="simpleTVFakeEpgId",Galatasaray TV TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6834/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3893.png" tvg-id="simpleTVFakeEpgId",TJK TV HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6837/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3894.png" tvg-id="simpleTVFakeEpgId",NBA TV HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6838/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3895.png" tvg-id="simpleTVFakeEpgId",Idman TV HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6840/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3896.png" tvg-id="simpleTVFakeEpgId",TRT Cocuk HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6841/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3897.png" tvg-id="simpleTVFakeEpgId",Disney Jr. HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6842/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3897.png" tvg-id="simpleTVFakeEpgId",Disney Jr. TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6843/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3900.png" tvg-id="simpleTVFakeEpgId",Baby TV HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6845/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/2620.png" tvg-id="simpleTVFakeEpgId",Cartoon Network TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6846/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3903.png" tvg-id="simpleTVFakeEpgId",Nickelodeon HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6848/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/2604.png" tvg-id="simpleTVFakeEpgId",Minika Cocuk TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6849/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3905.png" tvg-id="simpleTVFakeEpgId",Cartoonito HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6850/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/2591.png" tvg-id="simpleTVFakeEpgId",Minika Go TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6851/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3907.png" tvg-id="simpleTVFakeEpgId",TRT Belgesel TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6852/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3908.png" tvg-id="simpleTVFakeEpgId",24 Kitchen HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6853/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3910.png" tvg-id="simpleTVFakeEpgId",BBC Earth HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6854/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3910.png" tvg-id="simpleTVFakeEpgId",BBC Earth TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6855/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3911.png" tvg-id="simpleTVFakeEpgId",History HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6856/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3912.png" tvg-id="simpleTVFakeEpgId",Da Vinci HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6857/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/365.png" tvg-id="simpleTVFakeEpgId",Animal Planet HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6858/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/365.png" tvg-id="simpleTVFakeEpgId",Animal Planet TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6859/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3915.png" tvg-id="simpleTVFakeEpgId",TGRT Belgesel TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6860/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/325.png" tvg-id="simpleTVFakeEpgId",Discovery Channel HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6861/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/325.png" tvg-id="simpleTVFakeEpgId",Discovery Channel TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6863/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3919.png" tvg-id="simpleTVFakeEpgId",Love Nature HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6864/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3921.png" tvg-id="simpleTVFakeEpgId",National Geographic HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6866/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3922.png" tvg-id="simpleTVFakeEpgId",National Geographic FHD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6867/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3846.png" tvg-id="simpleTVFakeEpgId",Yaban TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6868/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3924.png" tvg-id="simpleTVFakeEpgId",TRT Muzik TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6869/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3924.png" tvg-id="simpleTVFakeEpgId",TRT Muzik HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6870/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/5094.png" tvg-id="simpleTVFakeEpgId",Tatlises TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6872/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3928.png" tvg-id="simpleTVFakeEpgId",Dream Turk HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6873/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3929.png" tvg-id="simpleTVFakeEpgId",NR1 HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6874/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3932.png" tvg-id="simpleTVFakeEpgId",beIN Movies Action HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6877/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3933.png" tvg-id="simpleTVFakeEpgId",beIN Movies Family HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6878/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3934.png" tvg-id="simpleTVFakeEpgId",beIN Movies Premiere 2 HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6879/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3935.png" tvg-id="simpleTVFakeEpgId",beIN Movies Premiere HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6880/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3936.png" tvg-id="simpleTVFakeEpgId",beIN Series Comedy HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6881/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3937.png" tvg-id="simpleTVFakeEpgId",beIN Series Drama HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6882/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/2598.png" tvg-id="simpleTVFakeEpgId",TRT 1 FHD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6883/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3939.png" tvg-id="simpleTVFakeEpgId",TRT 2 HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6884/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3941.png" tvg-id="simpleTVFakeEpgId",ATV Avrupa TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6888/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/2608.png" tvg-id="simpleTVFakeEpgId",Show TV TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6889/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3943.png" tvg-id="simpleTVFakeEpgId",Show Max TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6890/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3945.png" tvg-id="simpleTVFakeEpgId",Euro D TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6892/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/2593.png" tvg-id="simpleTVFakeEpgId",Star TV FHD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6893/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3947.png" tvg-id="simpleTVFakeEpgId",Eurostar TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6894/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/2596.png" tvg-id="simpleTVFakeEpgId",TV8 FHD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6896/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3950.png" tvg-id="simpleTVFakeEpgId",TV8 Int HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6897/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/2614.png" tvg-id="simpleTVFakeEpgId",TV 8.5 HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6898/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/2614.png" tvg-id="simpleTVFakeEpgId",TV 8.5 FHD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6899/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3956.png" tvg-id="simpleTVFakeEpgId",Kanal 7 FHD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6903/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3957.png" tvg-id="simpleTVFakeEpgId",Kanal 7 HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6904/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3958.png" tvg-id="simpleTVFakeEpgId",Kanal 7 Avrupa HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6905/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/2668.png" tvg-id="simpleTVFakeEpgId",Beyaz TV FHD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6906/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/2668.png" tvg-id="simpleTVFakeEpgId",Beyaz TV TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6907/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3961.png" tvg-id="simpleTVFakeEpgId",A2 TV TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6908/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3962.png" tvg-id="simpleTVFakeEpgId",A Para HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6909/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/2607.png" tvg-id="simpleTVFakeEpgId",Teve2 HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6910/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3968.png" tvg-id="simpleTVFakeEpgId",TLC HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6914/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3968.png" tvg-id="simpleTVFakeEpgId",TLC TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6915/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3970.png" tvg-id="simpleTVFakeEpgId",TRT Eba TV Ilkokul HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6916/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3970.png" tvg-id="simpleTVFakeEpgId",TRT Eba TV Ilkokul TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6917/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3972.png" tvg-id="simpleTVFakeEpgId",TRT Eba TV Lise HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6918/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3972.png" tvg-id="simpleTVFakeEpgId",TRT Eba TV Lise TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6919/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3973.png" tvg-id="simpleTVFakeEpgId",TRT Eba TV Ortaokul HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6920/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3974.png" tvg-id="simpleTVFakeEpgId",TRT Haber HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6921/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/2589.png" tvg-id="simpleTVFakeEpgId",A Haber FHD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6923/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/2601.png" tvg-id="simpleTVFakeEpgId",NTV FHD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6924/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/2606.png" tvg-id="simpleTVFakeEpgId",CNN Turk FHD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6926/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3979.png" tvg-id="simpleTVFakeEpgId",Haber Turk HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6927/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3980.png" tvg-id="simpleTVFakeEpgId",Haber Global TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6928/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3982.png" tvg-id="simpleTVFakeEpgId",Tele1 HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6930/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3983.png" tvg-id="simpleTVFakeEpgId",Ulusal Kanal TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6931/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3985.png" tvg-id="simpleTVFakeEpgId",TGRT Haber FHD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6932/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3986.png" tvg-id="simpleTVFakeEpgId",Ulke TV FHD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6934/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3987.png" tvg-id="simpleTVFakeEpgId",TVNET HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6936/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3988.png" tvg-id="simpleTVFakeEpgId",A News HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/6937/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/5969.png" tvg-id="simpleTVFakeEpgId",Kanal V TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15252/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/5970.png" tvg-id="simpleTVFakeEpgId",Kocaeli TV TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15253/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/5972.png" tvg-id="simpleTVFakeEpgId",KRT TV HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15255/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/5973.png" tvg-id="simpleTVFakeEpgId",Rumeli TV TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15256/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/5974.png" tvg-id="simpleTVFakeEpgId",Cay TV HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/15257/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/6531.png" tvg-id="simpleTVFakeEpgId",beIN IZ TV HD
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/19078/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/8626.png" tvg-id="simpleTVFakeEpgId",BİZİM EV TV
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/31151/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/9807.png" tvg-id="simpleTVFakeEpgId",Epic Drama HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/31173/index.m3u8
+#EXTINF:-1 group-title="Турция | Türk" tvg-logo="http://epg.one/img/3894.png" tvg-id="simpleTVFakeEpgId",NBA TV USA HD TR
+http://rhsbjv7k.tvclub.xyz/iptv/2DRFP4PXP5RHZT/31209/index.m3u8
+#EXTINF:-1 group-title="Пакет РТРС-1" tvg-id="simpleTVFakeEpgId",ТНТ International (Европа)
+http://85.187.13.40:18000/tntint
+#EXTINF:-1 group-title="Пакет РТРС-1" tvg-logo="https://veranzo.ru/other/icons/ТНТ4.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7979",ТНТ4
+http://130.193.73.10:8937/play/a020
+#EXTINF:-1 group-title="Пакет РТРС-1" tvg-logo="http://89.tv-internet.pro/wp-content/uploads/2019/12/160-A2B0B9BD8B-93B0BBB0BA82B8BAB8-HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7962",Galaxy
+http://178.163.5.162:4022/udp/234.0.0.111:2000
+#EXTINF:-1 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/Zoopark.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7775",Зоопарк
+http://178.163.5.162:4022/udp/234.0.0.216:2000
+#EXTINF:-1 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/Moja_planeta.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7880",Моя планета
+http://178.163.5.162:4022/udp/234.0.0.228:2000
+#EXTINF:-1 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/Nauka2.0_2.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7890",Наука 2.0
+http://178.163.5.162:4022/udp/234.0.0.226:2000
+#EXTINF:-1 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/Otkrytyj_mir.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9071",Cartoon classica
+http://178.163.5.162:4022/udp/234.0.0.238:2000
+#EXTINF:-1 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/auto_24.gif" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11051",Авто 24
+http://178.163.5.162:4022/udp/234.0.0.227:2000
+#EXTINF:-1 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/big_azia.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10924",Большая Азия
+http://178.163.5.162:4022/udp/234.0.0.10:2000
+#EXTINF:-1 group-title="Пакет РТРС-1" tvg-logo="https://i.ibb.co/0XHRs4h/04ae9f3537063ac965be96d757ed53ac.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7796",Дикая охота HD
+http://178.163.5.162:4022/udp/234.0.0.11:2000
+#EXTINF:-1 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/Oxota_i_rybalka.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7912",Охота и Рыбалка
+http://178.163.5.162:4022/udp/234.0.0.230:2000
+#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Muloqot TV
+http://82.215.111.227/1285/index.m3u8
+#EXTINF:-1 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/Sarafan_TV.png" tvg-id="simpleTVFakeEpgId",Сарафан ТВ
+http://178.163.5.162:4022/udp/234.0.0.246:2000
+#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",BiZ Music
+http://82.215.111.227/1212/index.m3u8
+#EXTINF:-1 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/Telekafe.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7970",Телекафе
+http://178.163.5.162:4022/udp/234.0.0.249:2000
+#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Biznes TV
+https://fl.biztv.media/BiznesTV_1080/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/Tatar_tan.png" tvg-id="simpleTVFakeEpgId",ТНВ Планета
+http://178.163.5.162:4022/udp/234.0.0.2:2000
+#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",D-TV
+http://82.215.111.227/1206/index.m3u8
+#EXTINF:-1 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/uspeh.gif" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9096",Hollywood
+http://178.163.5.162:4022/udp/234.0.0.117:2000
+#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Dunyo Bo'ylab
+http://82.215.111.227/1006/index.m3u8
+#EXTINF:-1 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/MuzTV.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10414",Муз ТВ
+http://178.163.5.162:4022/udp/234.0.0.96:2000
+#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",fTV
+http://82.215.111.227/1018/index.m3u8
+#EXTINF:-1 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/v_mire_givotnih.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8743",В мире животных HD
+http://178.163.5.162:4022/udp/234.0.0.97:2000
+#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Futbol TV
+http://82.215.111.227/1010/index.m3u8
+#EXTINF:-1 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/Zagorodnaja_zhizn7.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7816",Загородная жизнь HD
+http://178.163.5.162:4022/udp/234.0.0.115:2000
+#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",I-Kbol TV
+http://82.215.111.227/1282/index.m3u8
+#EXTINF:-1 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/ohotnik_i_ribolov.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7914",Охотник и рыболов HD
+error
+#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Istiqlol TV
+http://82.215.111.227/1283/index.m3u8
+#EXTINF:-1 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/prikluchenia_hd.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8126",Приключения HD
+http://178.163.5.162:4022/udp/234.0.0.193:2000
+#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Sevimli kids FHD
+https://vod.splay.uz/live_splay/kids/playlist.m3u8
+#EXTINF:-1 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/360gradusov.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9933",360
+http://178.163.5.162:4022/udp/234.0.0.8:2000
+#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Bolajon
+http://82.215.111.227/1007/index.m3u8
+#EXTINF:-1 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/iz.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8957",Известия HD
+http://178.163.5.162:4022/udp/234.0.0.116:2000
+#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Aqlvoy
+http://82.215.111.227/1205/index.m3u8
+#EXTINF:-1 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/RBK_TV.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7932",РБК HD
+http://178.163.5.162:4022/udp/234.0.0.151:2000
+#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",MiMi
+https://fl.biztv.media/MiMiTV_1080/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/Karusel7.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8444",Карусель
+http://178.163.5.162:4022/udp/234.0.0.203:2000
+#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Madaniyat va Ma'rifat
+http://82.215.111.227/1005/index.m3u8
+#EXTINF:-1 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/otr.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9187",ОТР
+http://178.163.5.162:4022/udp/234.0.0.208:2000
+#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Mahalla
+http://82.215.111.227/1013/index.m3u8
+#EXTINF:-1 group-title="Пакет РТРС-1" tvg-logo="http://infolada.ru/iptv/icons/Rossija_Kul7tura.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9173",Россия Культура
+http://178.163.5.162:4022/udp/234.0.0.202:2000
+#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",My5 International
+https://st.my5.media/hls/fullhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",MYDAYTV
+http://82.215.111.227/1265/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Navo
+http://82.215.111.227/1008/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",NTV (O'zbekiston)
+http://82.215.111.227/1284/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Nurafshon TV
+http://82.215.111.227/1220/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",O'zbekiston
+http://82.215.111.227/1001/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",O'zbekiston 24
+http://82.215.111.227/1011/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",O'zbekiston Tarixi
+http://82.215.111.227/1209/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",RTV
+http://82.215.111.227/1221/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",SMusic
+http://82.215.111.227/1245/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Sport
+http://82.215.111.227/1004/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Taraqqiyot TV
+http://82.215.111.227/1204/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Toshkent
+http://82.215.111.227/1003/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Travel TV (O'zbekiston)
+https://fl.biztv.media/TabiatTV_1080/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",TTV Musiqa
+https://st1.uzdigital.tv/TTV_Musiqa/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Uzreport
+http://82.215.111.227/1015/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Yoshlar
+http://82.215.111.227/1002/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Муз-ТВ (O'zbekiston)
+http://82.215.111.227/1063/index.m3u8
+#EXTINF:-1 group-title="O'zbekiston" tvg-id="simpleTVFakeEpgId",Солнечный тв
+https://fl.biztv.media/stv_1080_bizstvvietfujeyrah/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Sci-Fi.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8720",.sci-fi
+http://130.193.73.10:8937/play/a02q
+#EXTINF:-1 group-title="Кино" tvg-id="simpleTVFakeEpgId",1FILMAX
+http://hls.goodgame.ru:8080/hls/204708.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/1HD Music Television.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10922",1HD
+http://91.247.68.229:8000/play/eee/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/2х2.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7623",2x2 HD
+https://livetv.mylifeisgood.net.ru/channels/2x2.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/360°.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9933",360° HD
+http://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/tracks-v5a1/mono.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Amedia Hit.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9852",Amedia Hit
+http://130.193.73.10:8937/play/a02o
+#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Amedia Premium HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7635",Amedia Premium HD
+http://195.18.23.20:8000/play/3/index.m3u8
+#EXTINF:-1 group-title="Казахстан | Қазақстан" tvg-id="simpleTVFakeEpgId",Astana
+http://sc.id-tv.kz/Astana.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Bollywood HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11045",Bollywood HD
+http://130.193.73.10:8937/play/a02l
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/BRIDGE.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10028",Bridge
+http://195.26.83.96:7007/play/a00m/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Cinema.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10409",Cinema
+http://catchup.videoline.ru/cinema/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="simpleTVFakeEpgId",Cinema Космос TV
+http://178.124.152.238:8088/cinema
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/Clubbing TV.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10931",Clubbing TV
+https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Казахстан | Қазақстан" tvg-id="simpleTVFakeEpgId",El Arna
+http://sc.id-tv.kz/ElArna_34_35.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/FastnFunBox HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9492",Fast&FunBox
+http://95.156.76.230:33001/udp/230.4.34.86:1234
+#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/FilmBox.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9564",FilmBox
+http://130.193.73.10:8937/play/a03s
+#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/FilmBox Arthouse.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9507",FilmBox Arthouse
+http://130.193.73.10:8937/play/a03t
+#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/FlixSnip.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9508",FlixSnip
+http://130.193.73.10:8937/play/a02r
+#EXTINF:-1 group-title="Кино" tvg-id="simpleTVFakeEpgId",FMC
+http://hls.goodgame.ru/hls/187741.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/FX.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11041",FX
+http://45.143.108.110:2203/FOX
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Тайны Галактики.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7962",Galaxy TV
+http://195.26.83.96:7007/play/a00j/index.m3u8
+#EXTINF:-1 group-title="Казахстан | Қазақстан" tvg-id="simpleTVFakeEpgId",HIT TV
+http://sc.id-tv.kz/HitTV.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Hollywood.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10037",Hollywood HD
+http://130.193.73.10:8937/play/a02k
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/KHL Prime.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11267",KHL Prime
+http://tv.streams.baikal-telecom.net:8080/KHL_HD/mpegts
+#EXTINF:-1 group-title="Музыка" tvg-id="simpleTVFakeEpgId",Kiss Kiss
+https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-id="simpleTVFakeEpgId",Kronehit
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-id="simpleTVFakeEpgId",Maidan
+http://live-maidantv.cdnvideo.ru/maidantv/maidantv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-id="simpleTVFakeEpgId",Polsat Sport 1
+http://185.236.229.62:9981/play/a07n
+#EXTINF:-1 group-title="Спорт" tvg-id="simpleTVFakeEpgId",Polsat Sport 2
+http://185.236.229.62:9981/play/a07q
+#EXTINF:-1 group-title="Спорт" tvg-id="simpleTVFakeEpgId",Polsat Sport 3
+http://185.236.229.62:9981/play/a06m
+#EXTINF:-1 group-title="Спорт" tvg-id="simpleTVFakeEpgId",Polsat Sport Fight
+http://185.236.229.62:9981/play/a06l
+#EXTINF:-1 group-title="Музыка" tvg-id="simpleTVFakeEpgId",Retro Music
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/RU.TV.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8111",RU.TV HD
+http://hls-03-video.webcaramba.com/rutv/live_1080/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/START World.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10377",Start World
+http://95.156.76.230:33001/udp/230.4.34.66:1234
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Travel+ adventure.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10923",Travel+Adventure
+http://130.193.73.10:8937/play/a026
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/TV BRICS.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9939",TV Brics
+http://rusbrics.mediacdn.ru/cdn/brics/russian/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/viju TV1000 action.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9382",Viju TV1000 Action
+http://130.193.73.10:8937/play/a02t
+#EXTINF:-1 group-title="Музыка" tvg-id="simpleTVFakeEpgId",Viva TV Russia
+https://132544.edgevideo.ru/streams/132544_713325/1325441080/index.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-id="simpleTVFakeEpgId",Zerouno TV Music
+https://5f22d76e220e1.streamlock.net/zerounotvmusic/zerounotvmusic/playlist.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://raw.githubusercontent.com/blackbirdstudiorus/LoganetXIPTV/main/IMG_20230719_152756.png" tvg-id="simpleTVFakeEpgId",Астрахань Спорт
+http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Большая Азия.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10924",Большая Азия HD
+https://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="http://loganet.ru/images/channels/Movie/Videocassette.png" tvg-id="simpleTVFakeEpgId",Видеокассета
+https://132544.edgevideo.ru/streams/132544_806129/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="simpleTVFakeEpgId",Видеокассета Киномир
+https://132544.edgevideo.ru/streams/132544_847220/1325441080/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Живая планета.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7813",Живая планета
+http://130.193.73.10:8937/play/a01m
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Зал суда.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7818",Зал суда HD
+http://95.156.76.230:33001/udp/230.4.34.6:1234
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Звезда Плюс.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8008",Звезда Плюс
+http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Индийское кино.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7825",Индийское кино
+http://188.113.190.12/329/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="simpleTVFakeEpgId",Кино 1 International
+http://kino-1.catcast.tv/content/38617/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="../Channel/Logo/Кинопоиск К1.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_8124",Кино ТВ
+http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="../Channel/Logo/Кинопоиск К1.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7836",Кинопоказ
+http://31.148.48.15/Kinopokaz/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Комедийное HD.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9513",Комедийное HD
+http://141.95.55.143/CH231/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Комедия.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11128",Комедия
+http://130.193.73.10:8937/play/a03k
+#EXTINF:-1 group-title="Кино" tvg-id="simpleTVFakeEpgId",Кошмар
+http://hls.goodgame.ru:8080/hls/204709.m3u8
+#EXTINF:-1 group-title="Казахстан | Қазақстан" tvg-id="simpleTVFakeEpgId",КТК
+http://sc.id-tv.kz/KTK_34_35.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Любимое кино.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9428",Любимое кино
+http://130.193.73.10:8937/play/a037
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/Матч ТВ.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11254",Матч!
+http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/Матч! Арена.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11269",Матч! Арена
+http://tv.streams.baikal-telecom.net:8080/MatchArena/mpegts
+#EXTINF:-1 group-title="Спорт" tvg-logo="https://veranzo.ru/other/icons/Матч! Футбол 3.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11275",Матч! Футбол 3
+http://185.57.68.33/110/mpegts
+#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Мосфильм. Золотая коллекция.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11134",Мосфильм. Золотая коллекция
+http://130.193.73.10:8937/play/a03i
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Нано.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9066",Нано
+http://s1.tv-nano.com/Nano_rec/video.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Наука.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7890",Наука 2.0
+http://vod.tuva.ru/nauka2/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Ностальгия.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9186",Ностальгия
+http://178.124.152.238:8088/nostalgia
+#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Настоящее Страшное Телевидение.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7889",НСТ
+http://130.193.73.10:8937/play/a03c
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/НТВ Право.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7901",НТВ Право
+http://cdn.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино" tvg-id="simpleTVFakeEpgId",НТВ-Сериал
+http://cdn.ntv.ru/th_serial/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/НТВ Хит.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11107",НТВ-Хит
+http://cdn.ntv.ru/th_hit/tracks-v1a1/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Остросюжетное.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9516",Остросюжетное
+http://141.95.55.143/CH547/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Открытый мир.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9071",Открытый мир
+http://v4.proofix.ru/0mir/index.m3u8
+#EXTINF:-1 group-title="Казахстан | Қазақстан" tvg-id="simpleTVFakeEpgId",Первый канал Евразия
+http://sc.id-tv.kz/1KanalEvraziya_34_35.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-id="simpleTVFakeEpgId",Первый Музыкальный
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-id="simpleTVFakeEpgId",Первый Музыкальный Россия
+http://rtmp.one.by:2200
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Поехали!.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10068",Поехали!
+http://91.247.68.229:8000/play/Poehali/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Премиальное.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9517",Премиальное
+http://141.95.55.143/CH545/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Продвижение.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_10070",Продвижение
+http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-logo="https://veranzo.ru/other/icons/Ратник.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7931",Ратник
+http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные" tvg-id="simpleTVFakeEpgId",РЖД HD
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Русский бестселлер.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11111",Русский бестселлер
+http://31.148.48.15/Russkiy_Bestseller/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Русский детектив.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_11112",Русский детектив
+http://130.193.73.10:8937/play/a03o
+#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Русский иллюзион.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7942",Русский иллюзион
+http://195.26.83.96:7006/play/a00y/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/САПФИР.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9189",Сапфир HD
+http://130.193.73.10:8937/play/a01e
+#EXTINF:-1 group-title="Казахстан | Қазақстан" tvg-id="simpleTVFakeEpgId",Седьмой канал
+http://sc.id-tv.kz/7_kanal_34_35.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-id="simpleTVFakeEpgId",Телеканал Радио Страна ФМ
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Музыка" tvg-logo="https://veranzo.ru/other/icons/ТНТ Music.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7978",ТНТ Music HD
+http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
+#EXTINF:-1 group-title="Казахстан | Қазақстан" tvg-logo="https://veranzo.ru/other/icons/Хабар 24.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_7987",Хабар
+http://sc.id-tv.kz/Khabar.m3u8
+#EXTINF:-1 group-title="Кино" tvg-logo="https://veranzo.ru/other/icons/Шокирующее.png" tvg-id="d324c0e69b6208961a9c9202e58fa3ef_9519",Шокирующее
+http://141.95.55.143/CH229/index.m3u8
